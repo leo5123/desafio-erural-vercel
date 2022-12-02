@@ -1,0 +1,20 @@
+{
+  "salas": [
+    {
+      "id": 82.12527145006361,
+      "room": "Encontro fazendeiros",
+      "link": "https://www.youtube.com/watch?v=iRrngHu-uCs"
+    },
+    {
+      "id": 8.948424507342413,
+      "room": "Gados",
+      "link": "https://www.youtube.com/watch?v=PZcVzNANtkA"
+    },
+    {
+      "id": 70.69152638976483,
+      "room": "eRural",
+      "link": ""
+    }
+    
+  ]
+}
